@@ -27,5 +27,4 @@ spec:
         - name: REDIS_DB
           value: "0"
         ports:
-        - containerPort: 80
-~                         
+        - containerPort: 80               
